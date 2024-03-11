@@ -1,0 +1,41 @@
+1.0
+================
+Initial release for boot animation module
+Stock Boot animation added
+Simplified Boot animation added
+
+1.1
+================
+Fixed where simplified boot animation doesn't work
+Incremented boot animation module version code and string
+
+1.2
+================
+Initial release for shutdown animation module
+Incremented boot animation module version code and string
+Changed simplified boot animation's name and description on the module-side
+Support for shutdown animations added
+Stock Shutdown animation added
+Simplified Shutdown animation added
+
+1.3
+================
+Renamed "uncompressed" folder to "animations" to distinguish animations
+Changes to README.txt
+
+1.4
+================
+Initial release for make scripts
+Changes to README.txt
+
+1.5
+================
+The project now aims to support animations that is specific
+to other Android devices or universal animations.
+
+Renamed project to "Bootagen"
+Renamed directory "modules" to "module_skeletons"
+Changed names of TECNO CK7n animations to follow the name convention stated in README
+Changed the term "make scripts" into "automation scripts" to avoid confusion with GNU make
+Added name conventions to represent device-specific or universal animations
+Changes to README.txt

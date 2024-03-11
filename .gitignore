@@ -1,0 +1,10 @@
+# Directory which make_module.py uses to create modules
+._temp/
+
+# Boot and shutdown animations
+bootanimation.zip
+shutdownanimation.zip
+
+# Modules
+ModuleBootAnimation.zip
+ModuleShutdownAnimation.zip

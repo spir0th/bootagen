@@ -39,3 +39,10 @@ Changed names of TECNO CK7n animations to follow the name convention stated in R
 Changed the term "make scripts" into "automation scripts" to avoid confusion with GNU make
 Added name conventions to represent device-specific or universal animations
 Changes to README.txt
+
+2.0
+================
+Rewrite scripts
+Rename "module_skeletons" to just "skeletons"
+Added placeholders for module props
+Incremented to 2.0 because of incompatibility changes with older versions

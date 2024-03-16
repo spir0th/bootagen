@@ -41,7 +41,7 @@ def check_animation_type():
 
 def find_animation():
     global animation_dir, animation_path, animation, type
-    path = os.path.join(animation_dir, f"{type}-{animation}")
+    path = os.path.join(animation_dir, animation)
     
     if not os.path.isdir(animation_dir):
         raise FileNotFoundError("Uncompressed animation files are missing!")
